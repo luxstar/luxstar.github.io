@@ -3,9 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-🛠️ 你好，我是 LuxStar，一个专业生产高性能"代码罐头"的Web流水线工程师 🚀
-
-🔥 这里有硬核技术马戏团:
+👏 你好，我是 LuxStar，在这里我会分享一些关于Python的小技巧和一些其他的笔记, 欢迎阅读!
 > 🎪 FastAPI依赖注入：比乐高说明书更优雅的组装艺术
 {: .prompt-tip }
 >  🤹 Pydantic模型：用类型提示给数据穿上防弹衣的裁缝课
@@ -16,4 +14,3 @@ order: 4
 {: .prompt-tip }
 > ⚡ 异步上下文管理器：时间管理大师的作弊代码
 {: .prompt-tip }
-
