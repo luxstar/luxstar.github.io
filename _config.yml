@@ -16,7 +16,7 @@ timezone:
 # 网站SEO
 title: Study Note # the main title
 # 网站副标题
-tagline: Python language study note # it will display as the subtitle
+tagline: Take some simple study notes # it will display as the subtitle
 # 网站描述
 description: >- # used by seo meta and the atom feed
   Share Python learning experience and code.
